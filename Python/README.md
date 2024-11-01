@@ -63,3 +63,32 @@ key = int(input("Enter the shift key: "))
 decoded_text = caesar_decrypt(text, key)
 print(f"Decoded string: {decoded_text}")
 ```
+
+## Additional Python Scripts
+
+This section provides a comprehensive list of all the Python scripts available in this directory along with instructions for running them.
+
+### List of Scripts
+
+1. `hello-world.py`: A simple "Hello, World!" program in Python.
+2. `CaesarCipherEncrypt.py`: A script to encrypt a message using the Caesar Cipher.
+3. `CaeserCipherDecrypt.py`: A script to decrypt a message using the Caesar Cipher.
+4. `createStar.py`: A script to create a star pattern.
+5. `fun_motivational_quotes.py`: A script to display fun motivational quotes.
+6. `SolitaireCipherEncrypt.py`: A script to encrypt a message using the Solitaire Cipher.
+7. `SolitaireCipherDecrypt.py`: A script to decrypt a message using the Solitaire Cipher.
+8. `vip.py`: A script to identify VIPs from a list.
+
+### How to Run the Scripts
+
+To run any of the Python scripts, use the following command:
+
+```sh
+python filename.py
+```
+
+Replace `filename.py` with the name of the Python file you want to run.
+
+## Contribution Guidelines
+
+Feel free to add more Python programs to this directory. Make sure to update this `README.md` file with a brief description of the new programs you add.

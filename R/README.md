@@ -14,6 +14,20 @@ The `hello-world.r` script prints "Hello, World!" to the console.
 print("Hello, World!")
 ```
 
+## How to Run
+
+To run the R scripts in this directory, follow these steps:
+
+1. Open R or RStudio.
+2. Navigate to the directory containing the R script you want to run.
+3. Run the script using the following command:
+
+   ```r
+   source("scriptname.r")
+   ```
+
+Replace `scriptname.r` with the name of the R script you want to run.
+
 ## Contributing
 
 If you would like to contribute to this directory, please follow the guidelines outlined in the `CONTRIBUTING.md` file in the root directory of this repository.

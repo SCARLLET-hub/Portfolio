@@ -6,8 +6,10 @@ This directory contains C programs. Below is a brief description of each file:
 
 - `bubblesort.c`: Implementation of the Bubble Sort algorithm.
 - `checkPrime.c`: Program to check for prime numbers.
+- `Fibonaaci.c`: Program to generate Fibonacci series.
 - `hello-world.c`: A simple "Hello, World!" program in C.
 - `insertionSort.c`: Implementation of the Insertion Sort algorithm.
+- `LinkedList.c`: Implementation of a simple linked list.
 
 ## How to Compile and Run
 

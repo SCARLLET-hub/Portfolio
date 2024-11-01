@@ -14,6 +14,26 @@ The `hello-world.sh` script prints "Hello, World!" to the console.
 echo "Hello, World!" 
 ```
 
+## How to Run
+
+To run the Bash scripts in this directory, follow these steps:
+
+1. Open a terminal.
+2. Navigate to the directory containing the Bash script you want to run.
+3. Make the script executable (if it is not already) using the following command:
+
+   ```bash
+   chmod +x scriptname.sh
+   ```
+
+4. Run the script using the following command:
+
+   ```bash
+   ./scriptname.sh
+   ```
+
+Replace `scriptname.sh` with the name of the Bash script you want to run.
+
 ## Contributing
 
 If you would like to contribute to this directory, please follow the guidelines outlined in the `CONTRIBUTING.md` file in the root directory of this repository.

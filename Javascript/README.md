@@ -40,6 +40,18 @@ This directory contains JavaScript code examples and utilities. Below is a brief
   console.log("Hello, World!");
   ```
 
+## How to Run
+
+To run any of the JavaScript programs in this directory, follow these steps:
+
+1. Open a terminal or command prompt.
+2. Navigate to the directory containing the JavaScript file you want to run.
+3. Run the JavaScript file using a JavaScript runtime like Node.js. For example, to run `hello-world.js`, use the following command:
+
+   ```bash
+   node hello-world.js
+   ```
+
 ## Contributing
 
 If you have any JavaScript code examples or utilities that you would like to add to this directory, please follow the contribution guidelines in the main `README.md` file of the repository.

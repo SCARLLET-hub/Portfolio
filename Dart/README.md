@@ -14,6 +14,20 @@ void main() {
 }
 ```
 
+## How to Run
+
+To run the Dart scripts in this directory, follow these steps:
+
+1. Open a terminal.
+2. Navigate to the directory containing the Dart script you want to run.
+3. Run the script using the following command:
+
+   ```bash
+   dart scriptname.dart
+   ```
+
+Replace `scriptname.dart` with the name of the Dart script you want to run.
+
 ## Contributing
 
 If you would like to contribute to this directory, please follow the guidelines outlined in the `CONTRIBUTING.md` file in the root directory of this repository.
